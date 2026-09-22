@@ -78,11 +78,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="350" src="https://media1.tenor.com/m/nXa_ZUquuPMAAAAC/take-off-hood-jedi.gif"  />
-
-###
-
-<img data-importer="image" align="right" height="320" src="https://media1.tenor.com/m/suswgNKH34wAAAAC/vader-darth-vader.gif"  />
+<img data-importer="image" align="right" height="409" src="https://media1.tenor.com/m/suswgNKH34wAAAAC/vader-darth-vader.gif"  />
 
 ###
 
